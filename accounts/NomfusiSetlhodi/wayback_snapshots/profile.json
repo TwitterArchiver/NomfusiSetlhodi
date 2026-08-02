@@ -1,0 +1,35 @@
+{
+  "name": "伊井瀮（邪恶之王）",
+  "username": "@NomfusiSetlhodi",
+  "bio": "认出我。 - ✰*🎀 ੈ✩🍥✰*💗ੈ✩- 互联网依存！查成分回fo/我是小孩子不要和我计较！ 宇宙级严重失眠 -现役初中生 ^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+  "location": "你看看你身后",
+  "link": "https://t.me/+A7UqL85q-kpkOTEx",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 80,
+        "start": 67,
+        "username": "yumumu_msknb"
+      },
+      {
+        "end": 97,
+        "start": 82,
+        "username": "AminoXx_killer"
+      },
+      {
+        "end": 113,
+        "start": 101,
+        "username": "woaiuai0721"
+      },
+      {
+        "end": 126,
+        "start": 115,
+        "username": "niconekkod"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg"
+}

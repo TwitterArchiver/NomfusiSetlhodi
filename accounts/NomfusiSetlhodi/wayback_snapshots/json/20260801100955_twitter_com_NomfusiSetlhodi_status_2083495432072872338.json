@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "705087107849703424",
+    "conversation_id": "2083495432072872338",
+    "created_at": "2026-08-01T10:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083495432072872338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woaiuai0721/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/woaiuai0721/status/2083297081637347466",
+          "start": 6,
+          "url": "https://t.co/4atTdSuycU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083495432072872338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083297081637347466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卡炮是什么 https://t.co/4atTdSuycU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705087107849703424",
+        "conversation_id": "2083495432072872338",
+        "created_at": "2026-08-01T10:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083495432072872338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaiuai0721/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/woaiuai0721/status/2083297081637347466",
+              "start": 6,
+              "url": "https://t.co/4atTdSuycU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083495432072872338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083297081637347466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卡炮是什么 https://t.co/4atTdSuycU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975129821111074816",
+        "conversation_id": "2083297081637347466",
+        "created_at": "2026-07-31T21:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083297081637347466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing2000100830…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bing2000100830/status/2083292594843562376",
+              "start": 6,
+              "url": "https://t.co/rvVTxgJKsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083297081637347466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083292594843562376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卡炮是什么 https://t.co/rvVTxgJKsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 42,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "大家可以叫我朱雨辰或者别的 很友善 别对我有太多恶意呀 直fo就是觉得你很好 互fo都是好人 骂我什么的随便吧\n@yumumu_msknb 挂上了\nip：浙江",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "yumumu_msknb"
+              }
+            ]
+          }
+        },
+        "id": "1975129821111074816",
+        "location": "明天",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083296700907839488/2A_JIihW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 173,
+          "like_count": 8277,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2078
+        },
+        "url": "",
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

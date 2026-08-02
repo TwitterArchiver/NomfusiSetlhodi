@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082178124964626432"
+      ],
+      "media_source_tweet_id": [
+        "2082178201804222679"
+      ]
+    },
+    "author_id": "705087107849703424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083279396153278920",
+    "created_at": "2026-07-31T19:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083279396153278920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624337198765178881",
+          "start": 3,
+          "username": "niconekkod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DzzUneg4G",
+          "end": 79,
+          "expanded_url": "https://x.com/niconekkod/status/2082178201804222679/video/1",
+          "media_key": "13_2082178124964626432",
+          "start": 56,
+          "url": "https://t.co/0DzzUneg4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083279396153278920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082178201804222679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niconekkod: 中国人半夜爱国情怀不禁涌上心头\n纷纷发自内心的唱起国歌来\n为爱国的年轻人致敬🫡 https://t.co/0DzzUneg4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32331,
+        "height": 1280,
+        "media_key": "13_2082178124964626432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082178124964626432/img/IVByKO1JtfSki-G6.jpg",
+        "public_metrics": {
+          "view_count": 4621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082178124964626432/vid/avc1/320x690/-v0fSpY1wE8h3AbY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082178124964626432/vid/avc1/480x1036/QzxVZ0wI7JeHdnyO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082178124964626432/vid/avc1/592x1280/awQs38CM8h3fciof.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082178124964626432/pl/pwWQHPxpdOounXvn.m3u8?v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082178124964626432"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "conversation_id": "2082178201804222679",
+        "created_at": "2026-07-28T18:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082178201804222679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DzzUneg4G",
+              "end": 63,
+              "expanded_url": "https://x.com/niconekkod/status/2082178201804222679/video/1",
+              "media_key": "13_2082178124964626432",
+              "start": 40,
+              "url": "https://t.co/0DzzUneg4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082178201804222679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10003,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人半夜爱国情怀不禁涌上心头\n纷纷发自内心的唱起国歌来\n为爱国的年轻人致敬🫡 https://t.co/0DzzUneg4G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082178124964626432"
+          ],
+          "media_source_tweet_id": [
+            "2082178201804222679"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083279396153278920",
+        "created_at": "2026-07-31T19:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083279396153278920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624337198765178881",
+              "start": 3,
+              "username": "niconekkod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DzzUneg4G",
+              "end": 79,
+              "expanded_url": "https://x.com/niconekkod/status/2082178201804222679/video/1",
+              "media_key": "13_2082178124964626432",
+              "start": 56,
+              "url": "https://t.co/0DzzUneg4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083279396153278920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082178201804222679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niconekkod: 中国人半夜爱国情怀不禁涌上心头\n纷纷发自内心的唱起国歌来\n为爱国的年轻人致敬🫡 https://t.co/0DzzUneg4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 13,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\nins 同 iD\n顺男\n14岁傻逼低龄做题区\n爱好喵斯 碎碎念\n很想被人在意，请随时打扰我，我很乐意听任何人倾诉\n割手 偶尔压力太大会od\n坐标CQ主城\n欢迎互 fo\n🩷 @NomfusiSetlhodi ✝️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "NomfusiSetlhodi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx4YaI"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083213283813949440/3WGxQTZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 109,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/Sxu7tx4YaI",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

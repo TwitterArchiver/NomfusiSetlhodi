@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083387180073021440",
+        "3_2083387223840632832"
+      ],
+      "media_source_tweet_id": [
+        "2083387230958334418",
+        "2083387230958334418"
+      ]
+    },
+    "author_id": "705087107849703424",
+    "conversation_id": "2083389017392054558",
+    "created_at": "2026-08-01T03:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083389017392054558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684269091849404416",
+          "start": 3,
+          "username": "1212s1212bs1242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Qi9oc8baT",
+          "end": 51,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2083387230958334418/video/1",
+          "media_key": "13_2083387180073021440",
+          "start": 28,
+          "url": "https://t.co/9Qi9oc8baT"
+        },
+        {
+          "display_url": "pic.x.com/9Qi9oc8baT",
+          "end": 51,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2083387230958334418/video/1",
+          "media_key": "3_2083387223840632832",
+          "start": 28,
+          "url": "https://t.co/9Qi9oc8baT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083389017392054558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083387230958334418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1212s1212bs1242: 嘿嘿，抽嘿嘿 https://t.co/9Qi9oc8baT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27333,
+        "height": 1280,
+        "media_key": "13_2083387180073021440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083387180073021440/img/3LBrUMvv02tjZQKc.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083387180073021440/vid/avc1/320x568/RHmxLWtZCDgPdKrV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083387180073021440/vid/avc1/480x852/4fdI5EW2JSnDBAxQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083387180073021440/vid/avc1/720x1280/DWbrs-8ubP09aNWC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083387180073021440/pl/ibp-BD11UyS2Af1f.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083387223840632832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmtpE6bsAAGfEJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083387180073021440",
+            "3_2083387223840632832"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2083387230958334418",
+        "created_at": "2026-08-01T02:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083387230958334418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Qi9oc8baT",
+              "end": 30,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2083387230958334418/video/1",
+              "media_key": "13_2083387180073021440",
+              "start": 7,
+              "url": "https://t.co/9Qi9oc8baT"
+            },
+            {
+              "display_url": "pic.x.com/9Qi9oc8baT",
+              "end": 30,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2083387230958334418/video/1",
+              "media_key": "3_2083387223840632832",
+              "start": 7,
+              "url": "https://t.co/9Qi9oc8baT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083387230958334418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，抽嘿嘿 https://t.co/9Qi9oc8baT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083387180073021440",
+            "3_2083387223840632832"
+          ],
+          "media_source_tweet_id": [
+            "2083387230958334418",
+            "2083387230958334418"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2083389017392054558",
+        "created_at": "2026-08-01T03:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083389017392054558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684269091849404416",
+              "start": 3,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Qi9oc8baT",
+              "end": 51,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2083387230958334418/video/1",
+              "media_key": "13_2083387180073021440",
+              "start": 28,
+              "url": "https://t.co/9Qi9oc8baT"
+            },
+            {
+              "display_url": "pic.x.com/9Qi9oc8baT",
+              "end": 51,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2083387230958334418/video/1",
+              "media_key": "3_2083387223840632832",
+              "start": 28,
+              "url": "https://t.co/9Qi9oc8baT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083389017392054558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083387230958334418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1212s1212bs1242: 嘿嘿，抽嘿嘿 https://t.co/9Qi9oc8baT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 21,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 917,
+          "like_count": 17128,
+          "listed_count": 1,
+          "media_count": 1078,
+          "tweet_count": 10402
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}
