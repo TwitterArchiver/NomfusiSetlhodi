@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "705087107849703424",
+    "conversation_id": "2084183977859203559",
+    "created_at": "2026-08-03T07:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084183977859203559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810570297437020160",
+          "start": 3,
+          "username": "ace31ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084183977859203559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083463314663989699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ace31ch: 希望我五年后能顺利上奥克兰大学医学院🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705087107849703424",
+        "conversation_id": "2084183977859203559",
+        "created_at": "2026-08-03T07:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084183977859203559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810570297437020160",
+              "start": 3,
+              "username": "ace31ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183977859203559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083463314663989699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ace31ch: 希望我五年后能顺利上奥克兰大学医学院🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2083463314663989699",
+        "created_at": "2026-08-01T08:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083463314663989699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083463314663989699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "希望我五年后能顺利上奥克兰大学医学院🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 77,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 209,
+          "like_count": 801,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      }
+    ]
+  }
+}

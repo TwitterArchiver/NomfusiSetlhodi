@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "705087107849703424",
+    "conversation_id": "2083873741193585055",
+    "created_at": "2026-08-02T12:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083886431991406639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1967217075681959936",
+          "start": 0,
+          "username": "IeO_Oe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083886431991406639",
+    "in_reply_to_user_id": "1967217075681959936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083885596846506463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IeO_Oe1 上有老下有小。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705087107849703424",
+        "conversation_id": "2083873741193585055",
+        "created_at": "2026-08-02T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083886431991406639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1967217075681959936",
+              "start": 0,
+              "username": "IeO_Oe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083886431991406639",
+        "in_reply_to_user_id": "1967217075681959936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083885596846506463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IeO_Oe1 上有老下有小。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967217075681959936",
+        "conversation_id": "2083873741193585055",
+        "created_at": "2026-08-02T12:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083885596846506463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705087107849703424",
+              "start": 0,
+              "username": "NomfusiSetlhodi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083885596846506463",
+        "in_reply_to_user_id": "705087107849703424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083873788874428430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomfusiSetlhodi 这有点多哦…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 68,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T13:21:41.000Z",
+        "description": "|扩列私信💕|互fo💕|秒回复|psjk|BA|猎杀对决|轻小说|so on…\n尽情依赖我🥰\n如果有想ps的图片我可以帮忙💕\n和我聊什么我都能知道💕💕(大概)\n趣味の合う人と話をしたいだけです！",
+        "id": "1967217075681959936",
+        "location": "在你身边💕",
+        "name": "迟到的架子",
+        "pinned_tweet_id": "2080317892881453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135218885816320/YnJx8xHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 77,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "IeO_Oe1",
+        "verified": false
+      }
+    ]
+  }
+}

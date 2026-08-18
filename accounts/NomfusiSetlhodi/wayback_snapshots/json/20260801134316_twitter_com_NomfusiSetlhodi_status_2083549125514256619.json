@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083454863124434945",
+        "3_2083454787169705984"
+      ],
+      "media_source_tweet_id": [
+        "2083454884255297692",
+        "2083454884255297692"
+      ]
+    },
+    "author_id": "705087107849703424",
+    "conversation_id": "2083549125514256619",
+    "created_at": "2026-08-01T13:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083549125514256619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1730251057316737024",
+          "start": 3,
+          "username": "SRamirez66171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tG6t4QuS8C",
+          "end": 56,
+          "expanded_url": "https://x.com/SRamirez66171/status/2083454884255297692/photo/1",
+          "media_key": "3_2083454863124434945",
+          "start": 33,
+          "url": "https://t.co/tG6t4QuS8C"
+        },
+        {
+          "display_url": "pic.x.com/tG6t4QuS8C",
+          "end": 56,
+          "expanded_url": "https://x.com/SRamirez66171/status/2083454884255297692/photo/1",
+          "media_key": "3_2083454787169705984",
+          "start": 33,
+          "url": "https://t.co/tG6t4QuS8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549125514256619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083454884255297692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SRamirez66171: 大号被封了，互fo寻回喵🐱 https://t.co/tG6t4QuS8C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1009,
+        "media_key": "3_2083454863124434945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnrKM4XkAEKUal.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2083454787169705984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnrFx7WYAA0kvQ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083454863124434945",
+            "3_2083454787169705984"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2083454884255297692",
+        "created_at": "2026-08-01T07:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083454884255297692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG6t4QuS8C",
+              "end": 37,
+              "expanded_url": "https://x.com/SRamirez66171/status/2083454884255297692/photo/1",
+              "media_key": "3_2083454863124434945",
+              "start": 14,
+              "url": "https://t.co/tG6t4QuS8C"
+            },
+            {
+              "display_url": "pic.x.com/tG6t4QuS8C",
+              "end": 37,
+              "expanded_url": "https://x.com/SRamirez66171/status/2083454884255297692/photo/1",
+              "media_key": "3_2083454787169705984",
+              "start": 14,
+              "url": "https://t.co/tG6t4QuS8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083454884255297692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封了，互fo寻回喵🐱 https://t.co/tG6t4QuS8C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083454863124434945",
+            "3_2083454787169705984"
+          ],
+          "media_source_tweet_id": [
+            "2083454884255297692",
+            "2083454884255297692"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2083549125514256619",
+        "created_at": "2026-08-01T13:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083549125514256619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1730251057316737024",
+              "start": 3,
+              "username": "SRamirez66171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG6t4QuS8C",
+              "end": 56,
+              "expanded_url": "https://x.com/SRamirez66171/status/2083454884255297692/photo/1",
+              "media_key": "3_2083454863124434945",
+              "start": 33,
+              "url": "https://t.co/tG6t4QuS8C"
+            },
+            {
+              "display_url": "pic.x.com/tG6t4QuS8C",
+              "end": 56,
+              "expanded_url": "https://x.com/SRamirez66171/status/2083454884255297692/photo/1",
+              "media_key": "3_2083454787169705984",
+              "start": 33,
+              "url": "https://t.co/tG6t4QuS8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549125514256619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083454884255297692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SRamirez66171: 大号被封了，互fo寻回喵🐱 https://t.co/tG6t4QuS8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 47,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083454884255297692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 96,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

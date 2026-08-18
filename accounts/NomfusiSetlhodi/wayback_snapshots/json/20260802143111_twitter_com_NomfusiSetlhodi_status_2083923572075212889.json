@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083917763232616448"
+      ],
+      "media_source_tweet_id": [
+        "2083917783394550109"
+      ]
+    },
+    "author_id": "705087107849703424",
+    "conversation_id": "2083923572075212889",
+    "created_at": "2026-08-02T14:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083923572075212889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918261520817065984",
+          "start": 3,
+          "username": "EmptyVx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+          "end": 57,
+          "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=ZSR3mh9yXK",
+          "start": 34,
+          "unwound_url": "https://mobile.yangkeduo.com/goods2.html?refer_share_id=MgSlnSzTy947gyiUCm8BaKMqX9z63dLA&refer_share_channel=copy_link&_oak_share_detail_id=28464188864&pxq_secret_key=BG6SZF7QBQS3IWQ4K5HDI45HOM655YVEMT5UFYSHDNOMJMOXBUCA&_oak_share_time=1785679667&share_oak_rcto=YWL03vv95vmiITa8aY1omWXhkRkFA0ER_233iSrTsNPiwq9sR8BNtk0j&share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&page_from=26&refer_share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&goods_id=979429572399&_oak_share_snapshot_num=13300&_oak_share_ticket=01-0000000029-5695b9c4e0f62be8ea47cdcd6c9fef1f060187f35d7f25ad93e3e3d7c69c2e5a-1786975668",
+          "url": "https://t.co/v8z1jxIwHI"
+        },
+        {
+          "display_url": "pic.x.com/Od49k7BDNv",
+          "end": 81,
+          "expanded_url": "https://x.com/EmptyVx/status/2083917783394550109/photo/1",
+          "media_key": "3_2083917763232616448",
+          "start": 58,
+          "url": "https://t.co/Od49k7BDNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083923572075212889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083917783394550109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmptyVx: pdd再次上线白兔bron，速买即将售尽！https://t.co/v8z1jxIwHI https://t.co/Od49k7BDNv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2083917763232616448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuQKiKbUAAOBrZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083917763232616448"
+          ]
+        },
+        "author_id": "1918261520817065984",
+        "conversation_id": "2083917783394550109",
+        "created_at": "2026-08-02T14:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083917783394550109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+              "end": 44,
+              "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=ZSR3mh9yXK",
+              "start": 21,
+              "unwound_url": "https://mobile.yangkeduo.com/goods2.html?refer_share_id=MgSlnSzTy947gyiUCm8BaKMqX9z63dLA&refer_share_channel=copy_link&_oak_share_detail_id=28464188864&pxq_secret_key=BG6SZF7QBQS3IWQ4K5HDI45HOM655YVEMT5UFYSHDNOMJMOXBUCA&_oak_share_time=1785679667&share_oak_rcto=YWL03vv95vmiITa8aY1omWXhkRkFA0ER_233iSrTsNPiwq9sR8BNtk0j&share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&page_from=26&refer_share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&goods_id=979429572399&_oak_share_snapshot_num=13300&_oak_share_ticket=01-0000000029-5695b9c4e0f62be8ea47cdcd6c9fef1f060187f35d7f25ad93e3e3d7c69c2e5a-1786975668",
+              "url": "https://t.co/v8z1jxIwHI"
+            },
+            {
+              "display_url": "pic.x.com/Od49k7BDNv",
+              "end": 68,
+              "expanded_url": "https://x.com/EmptyVx/status/2083917783394550109/photo/1",
+              "media_key": "3_2083917763232616448",
+              "start": 45,
+              "url": "https://t.co/Od49k7BDNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917783394550109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "pdd再次上线白兔bron，速买即将售尽！https://t.co/v8z1jxIwHI https://t.co/Od49k7BDNv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083917763232616448"
+          ],
+          "media_source_tweet_id": [
+            "2083917783394550109"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2083923572075212889",
+        "created_at": "2026-08-02T14:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083923572075212889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918261520817065984",
+              "start": 3,
+              "username": "EmptyVx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+              "end": 57,
+              "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=ZSR3mh9yXK",
+              "start": 34,
+              "unwound_url": "https://mobile.yangkeduo.com/goods2.html?refer_share_id=MgSlnSzTy947gyiUCm8BaKMqX9z63dLA&refer_share_channel=copy_link&_oak_share_detail_id=28464188864&pxq_secret_key=BG6SZF7QBQS3IWQ4K5HDI45HOM655YVEMT5UFYSHDNOMJMOXBUCA&_oak_share_time=1785679667&share_oak_rcto=YWL03vv95vmiITa8aY1omWXhkRkFA0ER_233iSrTsNPiwq9sR8BNtk0j&share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&page_from=26&refer_share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&goods_id=979429572399&_oak_share_snapshot_num=13300&_oak_share_ticket=01-0000000029-5695b9c4e0f62be8ea47cdcd6c9fef1f060187f35d7f25ad93e3e3d7c69c2e5a-1786975668",
+              "url": "https://t.co/v8z1jxIwHI"
+            },
+            {
+              "display_url": "pic.x.com/Od49k7BDNv",
+              "end": 81,
+              "expanded_url": "https://x.com/EmptyVx/status/2083917783394550109/photo/1",
+              "media_key": "3_2083917763232616448",
+              "start": 58,
+              "url": "https://t.co/Od49k7BDNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083923572075212889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083917783394550109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmptyVx: pdd再次上线白兔bron，速买即将售尽！https://t.co/v8z1jxIwHI https://t.co/Od49k7BDNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 70,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，无性恋，我能罵你說明你也是糖到極致了，看见了会回Fo💅",
+        "id": "1918261520817065984",
+        "location": "塔菲國",
+        "name": "糖人日記",
+        "pinned_tweet_id": "2082358679521931763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 231,
+          "like_count": 117,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "EmptyVx",
+        "verified": false
+      }
+    ]
+  }
+}

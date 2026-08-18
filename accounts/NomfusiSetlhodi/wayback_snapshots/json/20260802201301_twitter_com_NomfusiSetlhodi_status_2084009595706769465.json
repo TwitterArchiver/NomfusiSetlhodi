@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083941285136617472"
+      ],
+      "media_source_tweet_id": [
+        "2083941290014597182"
+      ]
+    },
+    "author_id": "705087107849703424",
+    "conversation_id": "2084009595706769465",
+    "created_at": "2026-08-02T20:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084009595706769465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1997644719908884480",
+          "start": 3,
+          "username": "Oz_Garlandd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tiItlWcQTc",
+          "end": 78,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2083941290014597182/photo/1",
+          "media_key": "3_2083941285136617472",
+          "start": 55,
+          "url": "https://t.co/tiItlWcQTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084009595706769465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083941290014597182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oz_Garlandd: 我靠我行了这个棉花糖起效太快了吧..才10分钟我就要睁一只眼闭一只眼了.. https://t.co/tiItlWcQTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_2083941285136617472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuljsFW0AApc-f.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083941285136617472"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2083941290014597182",
+        "created_at": "2026-08-02T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083941290014597182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiItlWcQTc",
+              "end": 61,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2083941290014597182/photo/1",
+              "media_key": "3_2083941285136617472",
+              "start": 38,
+              "url": "https://t.co/tiItlWcQTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083941290014597182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我行了这个棉花糖起效太快了吧..才10分钟我就要睁一只眼闭一只眼了.. https://t.co/tiItlWcQTc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083941285136617472"
+          ],
+          "media_source_tweet_id": [
+            "2083941290014597182"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2084009595706769465",
+        "created_at": "2026-08-02T20:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084009595706769465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1997644719908884480",
+              "start": 3,
+              "username": "Oz_Garlandd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiItlWcQTc",
+              "end": 78,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2083941290014597182/photo/1",
+              "media_key": "3_2083941285136617472",
+              "start": 55,
+              "url": "https://t.co/tiItlWcQTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084009595706769465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083941290014597182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oz_Garlandd: 我靠我行了这个棉花糖起效太快了吧..才10分钟我就要睁一只眼闭一只眼了.. https://t.co/tiItlWcQTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 72,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 471,
+          "like_count": 33094,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 2817
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}
