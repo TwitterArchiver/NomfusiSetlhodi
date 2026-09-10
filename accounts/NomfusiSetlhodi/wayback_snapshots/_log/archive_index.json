@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-10T17:36:52",
+  "last_updated": "2026-09-10T17:37:08",
   "html": {
     "https://web.archive.org/web/20260731130734if_/https://twitter.com/NomfusiSetlhodi/status/2083177750865785215": {
       "status": "done",
@@ -3185,10 +3185,13 @@
       "last_updated": "2026-08-18T14:38:39"
     },
     "https://pbs.twimg.com/profile_images/1985631444660842496/O71-pdgF_normal.png": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260804114620_twitter_com_NomfusiSetlhodi_status_2084606861719048427.json"
-      ]
+      ],
+      "last_updated": "2026-09-10T17:37:08",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260804114620if_/https://pbs.twimg.com/profile_images/1985631444660842496/O71-pdgF_normal.png",
+      "miss_count": 1
     }
   },
   "media": {
@@ -7490,7 +7493,7 @@
       "last_updated": "2026-09-10T17:32:55"
     },
     "20260804114620_twitter_com_NomfusiSetlhodi_status_2084606861719048427.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7499,7 +7502,7 @@
           "https://pbs.twimg.com/profile_images/1985631444660842496/O71-pdgF_normal.png"
         ]
       },
-      "last_updated": "2026-09-10T17:36:52"
+      "last_updated": "2026-09-10T17:37:08"
     },
     "20260805060511_twitter_com_NomfusiSetlhodi_status_2084883394232713643.json": {
       "status": "done",
